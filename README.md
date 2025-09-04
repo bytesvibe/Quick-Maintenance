@@ -1,6 +1,6 @@
 # Quick Maintenance
 
-A lightweight plugin to quickly enable a sleek maintenance mode, hiding your site work from visitors.  
+Quick Maintenance is a lightweight WordPress plugin that allows you to easily put your website into maintenance mode with a beautiful, responsive design. Perfect for when you need to perform updates, maintenance, or make changes to your site without visitors seeing the work in progress.
 
 ![screenshot](assets/screenshot-1.png)
 
@@ -39,7 +39,7 @@ A lightweight plugin to quickly enable a sleek maintenance mode, hiding your sit
 - Fully mobile-friendly  
 
 ---
-
+![screenshot](assets/screenshot-2.png)
 ## ⚙️ How It Works
 When enabled, all visitors (except whitelisted IPs and logged-in admins) will see a responsive maintenance page with your custom content. The plugin serves a proper **HTTP 503 status code**, letting search engines know the downtime is temporary.
 
@@ -76,7 +76,7 @@ A: Yes, fully mobile-friendly.
 A: Yes, `.pot` file provided in `languages/`.  
 
 ---
-
+![screenshot](assets/screenshot-5.png)
 ## 📸 Screenshots
 1. Settings page in WordPress admin  
 2. Maintenance page (desktop)  
